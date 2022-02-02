@@ -1,1 +1,6 @@
-skkkkrtt
+<?php
+
+
+echo "Hello there";
+
+?>
