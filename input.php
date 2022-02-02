@@ -1,8 +1,14 @@
 <?php
 
 $name = $_GET ['name'];
-$name = $_GET ['age'];
+$age = $_GET ['age'];
 
-echo "you have the right to Vote ", 
+
+ if ($age >= 18){
+     echo " <h2> You have the right to vote </h2>";
+ }
+ else {
+    echo "<h2> You cannot vote <br> </h2>";
+}
 
 ?>

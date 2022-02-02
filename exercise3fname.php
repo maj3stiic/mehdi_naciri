@@ -45,10 +45,11 @@ else {
 
 echo "<h3>Q4</h3>";
 
-$age = 18;
- if ($age == 18){
-     echo ""
- }
+
+# Check input.html / input.php
+
+echo "<h3>Q5</h3>";
+
 
 
 
