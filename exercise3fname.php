@@ -50,7 +50,27 @@ echo "<h3>Q4</h3>";
 
 echo "<h3>Q5</h3>";
 
+for($i=8;$i>=1;$i--){
+    for($j=1;$j<=$i;$j++){
+      echo " $j ";
+    }
+    echo '</br>';
+  }
 
+
+echo "<h3>Q6</h3>";
+
+for ($i=0; $i <10; $i++){
+    for ($j=1;$j<$i; $j++) {
+        echo" * ";
+    }
+    
+    echo "<br>";
+}
+
+
+# project webpage: http://shell.hamk.fi/~bbcap21_5/homepage.html
 
 
 ?>
+
