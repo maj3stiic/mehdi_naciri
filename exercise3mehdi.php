@@ -1,5 +1,9 @@
 <?php
 
+#github : https://github.com/maj3stiic/mehdi_naciri
+#project's website: http://shell.hamk.fi/~bbcap21_5/homepage.html
+
+
 echo "<h3>Q1</h3>";
 $d = date("F");
 if ($d == "August"){
@@ -69,7 +73,7 @@ for ($i=0; $i <10; $i++){
 }
 
 
-# project webpage: http://shell.hamk.fi/~bbcap21_5/homepage.html
+
 
 
 ?>
