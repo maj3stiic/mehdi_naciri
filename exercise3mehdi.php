@@ -49,8 +49,8 @@ else {
 
 echo "<h3>Q4</h3>";
 
+echo "<h3>Check input.html / input.php</h3>";
 
-# Check input.html / input.php
 
 echo "<h3>Q5</h3>";
 
